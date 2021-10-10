@@ -58,7 +58,7 @@ Now lets go to this newly created draw event and update the **description** and 
 
 > "Real numbers are any value that is not a string, nor any of the other possible data types. So, 124, 45639.566546456, 0, -45.5 etc... are all examples of real numbers. All real numbers are stored as double-precision floating point values (even seemingly integer values), so you may experience slight rounding errors when dealing with these." - GameMaker Manual
 
-In **obj_data_types_controller** *press* the <kbd>Variable Definitions</kbd> button. Add a variable named `age` and set the **value** to any randome whole number.  Leave it as type `Real` (Real is any number that is whole or fractional and support positive and negative values).  *Add* another variable named `line_height` and set the **Value** to `32`.  We will use this to space each line by **32** pixels.  *Leave* this as a `Real` number.
+In **obj_data_types_controller** *press* the <kbd>Variable Definitions</kbd> button. Add a variable named `age` and set the **value** to any randome whole number.  Leave it as type `Real`.  *Add* another variable named `line_height` and set the **Value** to `32`.  We will use this to space each line by **32** pixels.  *Leave* this as a `Real` number.
 
 ![alt_text](images/.png)
 
