@@ -60,7 +60,7 @@ Now lets go to this newly created draw event and update the **description** and 
 
 In **obj_data_types_controller** *press* the <kbd>Variable Definitions</kbd> button. Add a variable named `age` and set the **value** to any randome whole number.  Leave it as type `Real`.  *Add* another variable named `line_height` and set the **Value** to `32`.  We will use this to space each line by **32** pixels.  *Leave* this as a `Real` number.
 
-![alt_text](images/.png)
+![Add two new variables to this object called age and line_height](images/TwoFirstVariablesInDataTypes.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
