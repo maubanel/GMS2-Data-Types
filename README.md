@@ -90,7 +90,9 @@ Make sure that in **Room Order** that  **rm_data_types** on top. This way it wil
 
 ##### `Step 10.`\|`ITB`| :large_blue_diamond:
 
-![alt_text](images/.png)
+Now we can do other things with real numbers, we can perform mathematical operations on them.  So we can evaluate: 52 + 20 * 2.  Remember the order of operations, as this will evaluate as *52 + (20 * 2)*.  So lets make this change and add a second line to our on screen text.  We advance the **Y** value by *multiplying* **line_height** by `2`.  This will move it down one line.  We will also not use the real number `52`, we will use the variable **age**. *Add* another comment to the line.
+
+![Enter second line with mathematical operation](images/AddSecondLineMathOp.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
