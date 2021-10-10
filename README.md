@@ -115,7 +115,9 @@ Lets clean up a few things.  The spacing is a bit too big for the font that is d
 
 ##### `Step 13.`\|`ITB`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Go back to the **Draw** event script and put brackets around the multiplication.  Even though this makes no difference, it will help you or others to better understand what you mean.  There is no downside to being more explicit, the compiler will generate the same end result.  It is just a clearer expression of your intent.
+
+![Add parenthesis for mathematical operations](images/OrderOfOps.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
