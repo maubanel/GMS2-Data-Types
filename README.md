@@ -98,7 +98,9 @@ Now we can do other things with real numbers, we can perform mathematical operat
 
 ##### `Step 11.`\|`ITB`| :large_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now run the game by pressing the <kbd>Play</kbd> Button in the top menu bar to launch the game.  You should see the second line that clearly state 92.  This means that the order of operations behaved as we expected.
+
+![Run game with two ages printed on screen](images/MathOperationsInGame.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
