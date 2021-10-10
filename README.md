@@ -15,7 +15,7 @@ This tutorial is intended for those wanting an introduction to <i>GameMaker Stud
 
 ##### `Step 1.`\|`ITB`|:small_blue_diamond:
 
-Lets create a new **room** and look at some more data types.  *Right click* on the **Rooms** title in the **Resources** menu.  *Select* **Create | Room** then change the name to `rm_data_types` and *drag* this to the first room in the list.  This is important as GameMaker loads the first room in this list.  We now want to load this new room.
+Lets create a new **room** and look at some more data types.  *Right click* on the **Rooms** title in the **Asset Browser** menu.  *Select* **Create | Room** then change the name to `rm_data_types` and *drag* this to the first room in the list.  This is important as GameMaker loads the first room in this list.  We now want to load this new room.
 
 ![create a new room called rm_data_types and make it first in room order list](images/AddTypesRoom.gif)
 
