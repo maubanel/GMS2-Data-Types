@@ -23,7 +23,7 @@ Lets create a new **room** and look at some more data types.  *Right click* on t
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
 
-Lets now create another object that will be responsible for controlling all elements unique to this level.  *Right click* on **Object** in the **Resources** menu, then select **Create | Object** and call it `obj_data_types_controller`.
+Lets now create another object that will be responsible for controlling all elements unique to this level.  *Right click* on **Object** in the **Asset Browser** menu, then select **Create | Object** and call it `obj_data_types_controller`.
 
 
 ![add object called boj_data_types_controller](images/objdatatypecontrl.gif)
