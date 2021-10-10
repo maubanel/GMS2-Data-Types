@@ -82,7 +82,9 @@ Go to the **obj_data_types_controller | Draw** event script window.  Start by *a
 
 ##### `Step 9.`\|`ITB`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Make sure that in **Room Order** that  **rm_data_types** on top. This way it will run this room first. Then run the game by pressing the <kbd>Play</kbd> button in the top menu bar to launch the game.  You should see the age you entered printed in the top center of the screen:
+
+![Run game and see age printed on top of game screen](images/ReorderRoom.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
