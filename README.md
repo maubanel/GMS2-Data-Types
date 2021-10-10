@@ -32,7 +32,9 @@ Lets now create another object that will be responsible for controlling all elem
 
 ##### `Step 3.`\|`ITB`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now in this newly created object  *left click* on the <kbd>Add Event</kbd> button and add a **Draw | Draw** event.
+
+![Add a Draw Event to obj_data_types_controller](images/AddDrawObjDataType.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
