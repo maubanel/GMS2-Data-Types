@@ -107,7 +107,9 @@ Now run the game by pressing the <kbd>Play</kbd> Button in the top menu bar to l
 
 ##### `Step 12.`\|`ITB`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+Lets clean up a few things.  The spacing is a bit too big for the font that is default on my computer.  Go to the **Variable Definitions** tab and change the **Value** to `22`.
+
+![Alter line_height to 22](images/ChangeLineHeight.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
