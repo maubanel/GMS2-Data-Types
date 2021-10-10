@@ -26,7 +26,7 @@ Lets create a new **room** and look at some more data types.  *Right click* on t
 Lets now create another object that will be responsible for controlling all elements unique to this level.  *Right click* on **Object** in the **Resources** menu, then select **Create | Object** and call it `obj_data_types_controller`.
 
 
-![alt_text](images/.png)
+![add object called boj_data_types_controller](images/objdatatypecontrl.gif)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
