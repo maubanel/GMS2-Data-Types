@@ -74,7 +74,9 @@ Drag an instance of **obj_data_types_controller** to the edge of the new **rm_da
 
 ##### `Step 8.`\|`ITB`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Go to the **obj_data_types_controller | Draw** event script window.  Start by *aligning* the text to the horizontal center.  Then draw the text and don't use the built in x and y variables. Since we placed it off screen we will position the text where we want it.  We will use **room_width** times **0.5** (same as dividing the room_width variable by half).  We set the **y** value at our current **line_height** variable.  Then we reset the horizontal alignment to its default. Type the following into your draw script to perform the above.
+
+![dd script to print age on screen](images/DrawFirstLineScript.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
