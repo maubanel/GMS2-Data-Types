@@ -48,7 +48,9 @@ Now lets take a look at the newly created script.  The first line is special and
 
 ##### `Step 5.`\|`ITB`| :small_orange_diamond:
 
-![alt_text](images/.png)
+Now lets go to this newly created draw event and update the **description** and the first line of help to demonstrate what we will do next.  *Type* the below message and press <kbd>Save</kbd> and see that what follows `/// @description` now shows up in the **Events** window:
+
+![Type comments in obj_data_types_controller object](images/AddDescriptionToDataTypes.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
