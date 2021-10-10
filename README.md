@@ -42,7 +42,7 @@ Now in this newly created object  *left click* on the <kbd>Add Event</kbd> butto
 
 Now lets take a look at the newly created script.  The first line is special and has unique section that has `/// @description` .  This tells the **IDE** that this is the *title* of this script and what follows it shows up in the **Events** list window. *Properly* naming this makes it easier to find code that you wrote previously. 
 
-![Look at special meaning of ///@ description](images/.png)
+![Look at special meaning of ///@ description](images/InsertDescriptionHere.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
