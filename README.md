@@ -66,7 +66,9 @@ In **obj_data_types_controller** *press* the <kbd>Variable Definitions</kbd> but
 
 ##### `Step 7.`\|`ITB`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Drag an instance of **obj_data_types_controller** to the edge of the new **rm_data_types** room.  You can put it on the outside of the room as it is just there to run code, we will not use its position on screen.
+
+![Drag a copy of obj_data_types_controller to the room](images/AddLevelControllerOffScreen.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
