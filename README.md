@@ -237,6 +237,15 @@ Even cooler is that we can nest casts.  So we can cast the (bool)real_number to 
 
 ![Double cast and stringefy a bool in a nester structure](images/DoubleCast.png)
 
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 27.`\|`ITB`| :large_blue_diamond: :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Now run the game by pressing the <kbd>Play</kbd> Button in the top menu bar to launch the game. All the lines are now concatonating strings that are cast from either booleans or real numbers.
+
+
+![Run game and see a double cast concatonation](images/DoubleCastInGame.png)
+
 | `gms2.variables`\|`THE END`| 
 | :--- |
 | **That's All Folks!** That's it for variables. |
