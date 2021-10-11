@@ -151,7 +151,7 @@ Now run the game by pressing the <kbd>Play</kbd> Button in the top menu bar to l
 
 Previously we were able to add two real numbers together to perform a mathematical operation.  We can also combine strings together.  Instead of a mathematical operation it performs a concatonation.  It puts both strings together as a longer string.
 
-Lets add a fifth line to the printing and concatonate some strings.  Lets *add* two more **Variable Definitions | Variables** to the `obj_data_types_controller`.  We will add a **Name** `first_name` and `last_name` making them both `String` **Type**. 
+Lets add a fifth line to the printing and concatonate some strings.  Lets *add* two more **Variable Definitions | Variables** to the `obj_data_types_controller`.  We will add a **Name** `first_name` and `last_name` making them both `String` **Type**. I added a **Default** of `Bob` for first name and `Smith` for last name.
 
 ![Add two variables first_name and last_name](images/AddLastAndFirstName.png)
 
