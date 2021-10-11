@@ -175,7 +175,9 @@ Now run the game by pressing the <kbd>Play</kbd> Button in the top menu bar to l
 
 ##### `Step 20.`\|`ITB`| :large_blue_diamond: :large_blue_diamond:
 
-![alt_text](images/.png)
+So a real number + a real number will perform an addition.  A string + a string will perform a concatonation.  What if we add a string to a real number together.  Lets give it a try. Go back to the first line we printed and add the string and real number "I am " + age + " years old."
+
+![Add a real and string together](images/ConcatonateStringAndReal.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
