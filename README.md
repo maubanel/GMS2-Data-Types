@@ -141,7 +141,9 @@ In **GameMaker** any real number above .5 will resolve to true and any number le
 
 ##### `Step 16.`\|`ITB`| :large_blue_diamond: :small_orange_diamond:   :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now run the game by pressing the <kbd>Play</kbd> Button in the top menu bar to launch the game.  You should see a tighter spacing that looks a bit better.  Did you see what you expected. According to the above rules the 3 resolved to true and the -300 resolved to false.
+
+![Run game with two more boolean messages](images/BooleanExpressionInGame.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
