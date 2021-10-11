@@ -214,6 +214,9 @@ Now inside the cast we can still perform arithmetic operations on the real numbe
 draw_text(room_width * .5, line_height * 2, "In 40 years I will be " + string(age + (20 * 2)) + "." );
 ```
 
+![Mathematical problem within a cast](images/ConcatonateAndDoMath.png)
+
+
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 25.`\|`ITB`| :large_blue_diamond: :large_blue_diamond: :small_orange_diamond: 
