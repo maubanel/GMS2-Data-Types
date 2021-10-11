@@ -167,7 +167,9 @@ Now lets string a sentence together.  We can *concatonate* string varialbes with
 
 ##### `Step 19.`\|`ITB`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now run the game by pressing the <kbd>Play</kbd> Button in the top menu bar to launch the game.  You should see an entire sentence print on the fifth line as it combines all the strings together.
+
+![Run game and see concatonated sentence](images/StringConcatonationInGame.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
