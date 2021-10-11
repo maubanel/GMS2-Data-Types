@@ -159,7 +159,9 @@ Lets add a fifth line to the printing and concatonate some strings.  Lets *add* 
 
 ##### `Step 18.`\|`ITB`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now lets string a sentence together.  We can *concatonate* string varialbes with strings. We also need spaces between words.  So we can *add* `"Hello " + first_name + " " + last_name + "!"` as a fifth line.  *Add* the following 5th text string to our **Draw** script:
+
+![Concatonate multiple strings](images/StringConcatonation.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
