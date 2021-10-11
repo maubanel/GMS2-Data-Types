@@ -123,13 +123,19 @@ Go back to the **Draw** event script and put brackets around the multiplication.
 
 ##### `Step 14.`\|`ITB`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now run the game by pressing the <kbd>Play</kbd> Button in the top menu bar to launch the game.  You should see a tighter spacing that looks a bit better.  Notice that the answer is still 91 so the brackets did not change anything in the execution.
+
+![Run game with two different ages with improved line spacing](images/NewlySpacedSecondLine.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 15.`\|`ITB`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.png)
+The final data type we will look at for now is called a **Boolean**.  A boolean resolves to either 1 (true) or 0 (false). It is preferable to use the words true  and false when refering intead of 0 and 1.  But if you print a boolean value we will only see the number.  
+
+In **GameMaker** any real number above .5 will resolve to true and any number less will be false.  Now we can't select a boolean type we need to cast a real number to a boolean.  We do this by typing (bool)real_number_to_convert.  So lets add two more lines and print the boolean result of 3 and -300.
+
+![Add two new prints printing a true and false boolean](images/BooleanTrueAndFalse.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
