@@ -230,8 +230,10 @@ draw_text(room_width * .5, line_height * 2, "In 40 years I will be " + string(ag
 
 Even cooler is that we can nest casts.  So we can cast the (bool)real_number to a string.  Lets make a sentence out of our boolean comparisons and double cast:
 
+```
 "3 in boolean resolves to: " + string(bool(3))
 "-300 in boolean resolves to: " +  string(bool(-300)) 
+```
 
 ![Double cast and stringefy a bool in a nester structure](images/DoubleCast.png)
 
