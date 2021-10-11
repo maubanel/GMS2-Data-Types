@@ -214,7 +214,23 @@ Now inside the cast we can still perform arithmetic operations on the real numbe
 draw_text(room_width * .5, line_height * 2, "In 40 years I will be " + string(age + (20 * 2)) + "." );
 ```
 
-![Run game and see concatonated casted string and real number](images/StringCastConcatonationInGame.png)
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 25.`\|`ITB`| :large_blue_diamond: :large_blue_diamond: :small_orange_diamond: 
+
+
+![Run game it still performs cast on the result of a mathematical problem](images/DoMathAndConcatonateInGame.png)
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 26.`\|`ITB`| :large_blue_diamond: :large_blue_diamond: :small_orange_diamond: :small_blue_diamond:
+
+Even cooler is that we can nest casts.  So we can cast the (bool)real_number to a string.  Lets make a sentence out of our boolean comparisons and double cast:
+
+"3 in boolean resolves to: " + string(bool(3))
+"-300 in boolean resolves to: " +  string(bool(-300)) 
+
+![Double cast and stringefy a bool in a nester structure](images/DoubleCast.png)
 
 | `gms2.variables`\|`THE END`| 
 | :--- |
