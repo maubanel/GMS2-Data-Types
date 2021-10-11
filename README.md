@@ -183,8 +183,38 @@ So a real number + a real number will perform an addition.  A string + a string 
 
 ##### `Step 21.`\|`ITB`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now run the game by pressing the <kbd>Play</kbd> Button in the top menu bar to launch the game.  Woops we now get our first run time error.  What does this mean?  This means it compiles succesfully but when that line is run in game (it is run right away) it asserts to an error. The error tells us which script it is in and the event type (Draw Event obj_data_types_controller).  The error message "DoAdd" isn't very helpful.  Essentially GameMaker can't handle adding a String and a Real number together.  But there is a solution.
 
+![Run game and get a runtime error](images/RunTimeConcatonationError.png)
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 22.`\|`ITB`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Just as we cast a real number to a boolean we can cast a **Real Number** to a **String**.  What casting does is changes from one data type to another.  There is a function called `string()` in which it casts the value to a string data type. *Edit* the script and pass the **age** real number variable as an argument to the `string()` function.
+
+![Cast real to string](images/CastRealToString.png)
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 23.`\|`ITB`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Now run the game by pressing the <kbd>Play</kbd> Button in the top menu bar to launch the game. It works fine as we are back to concatonating multiple strings together because of the cast.
+
+![Run game and see concatonated casted string and real number](images/StringCastConcatonationInGame.png)
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 24.`\|`ITB`| :large_blue_diamond: :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Now inside the cast we can still perform arithmetic operations on the real numbers and it will perform this before casting it to a string.  On the second line surround the mathematical operation with a string(age + (20 * 2)) like so:
+	
+```
+//Performs mathematical operation on second line<br>
+draw_text(room_width * .5, line_height * 2, "In 40 years I will be " + string(age + (20 * 2)) + "." );
+```
+
+![Run game and see concatonated casted string and real number](images/StringCastConcatonationInGame.png)
 
 | `gms2.variables`\|`THE END`| 
 | :--- |
