@@ -149,7 +149,11 @@ Now run the game by pressing the <kbd>Play</kbd> Button in the top menu bar to l
 
 ##### `Step 17.`\|`ITB`| :large_blue_diamond: :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Previously we were able to add two real numbers together to perform a mathematical operation.  We can also combine strings together.  Instead of a mathematical operation it performs a concatonation.  It puts both strings together as a longer string.
+
+Lets add a fifth line to the printing and concatonate some strings.  Lets *add* two more **Variable Definitions | Variables** to the `obj_data_types_controller`.  We will add one to hold a first and last name and make them both Strings.
+
+![Add two variables first_name and last_name](images/AddLastAndFirstName.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
