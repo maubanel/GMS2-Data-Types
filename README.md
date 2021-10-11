@@ -221,6 +221,7 @@ draw_text(room_width * .5, line_height * 2, "In 40 years I will be " + string(ag
 
 ##### `Step 25.`\|`ITB`| :large_blue_diamond: :large_blue_diamond: :small_orange_diamond: 
 
+Now run the game by pressing the <kbd>Play</kbd> Button in the top menu bar to launch the game. Now it concatonates the two strings but only after it has performed the arithmetic operations:
 
 ![Run game it still performs cast on the result of a mathematical problem](images/DoMathAndConcatonateInGame.png)
 
